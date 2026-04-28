@@ -18,7 +18,7 @@
 
 | Курс | Цена со скидкой |
 |------|----------------|
-| [SQL для всех: от начинающих до продвинутых](https://stepik.org/course/123456) | **2490₽** |
+| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/course/123456)** | **2490₽** |
 | [Metabase: визуализация данных](https://stepik.org/course/123456) | **1490₽** |
 | [Microsoft Power BI, Power Query, DAX](https://stepik.org/course/123456) | **1990₽** |
 | [SQL: оконные функции](https://stepik.org/course/123456) | **1190₽** |
