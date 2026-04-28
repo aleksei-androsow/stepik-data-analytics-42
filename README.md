@@ -19,19 +19,19 @@
 | Курс | Цена со скидкой |
 |------|----------------|
 | **[SQL для всех: от начинающих до продвинутых](https://stepik.org/course/123456)** | **2490₽** |
-| [Metabase: визуализация данных](https://stepik.org/course/123456) | **1490₽** |
-| [Microsoft Power BI, Power Query, DAX](https://stepik.org/course/123456) | **1990₽** |
-| [SQL: оконные функции](https://stepik.org/course/123456) | **1190₽** |
-| [ABC-XYZ анализ в SQL](https://stepik.org/course/123456) | **890₽** |
-| [Когортный & RFM-анализ в SQL](https://stepik.org/course/123456) | **890₽** |
+| **[Metabase: визуализация данных](https://stepik.org/course/123456)** | **1490₽** |
+| **[Microsoft Power BI, Power Query, DAX](https://stepik.org/course/123456)** | **1990₽** |
+| **[SQL: оконные функции](https://stepik.org/course/123456)** | **1190₽** |
+| **[ABC-XYZ анализ в SQL](https://stepik.org/course/123456)** | **890₽** |
+| **[Когортный & RFM-анализ в SQL](https://stepik.org/course/123456)** | **890₽** |
 
 <h3 align="center">Программы</h3>
 
 | Программа | Цена со скидкой |
 |-----------|----------------|
-| [Аналитика данных](https://stepik.org/course/123456) | **5990₽** |
-| [Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/course/123456) | **4000₽** |
-| [Аналитика данных: MS Power BI, оконные функции](https://stepik.org/course/123456) | **2500₽** |
+| **[Аналитика данных](https://stepik.org/course/123456)** | **5990₽** |
+| **[Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/course/123456)** | **4000₽** |
+| **[Аналитика данных: MS Power BI, оконные функции](https://stepik.org/course/123456)** | **2500₽** |
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">Самая полная программа – **[Аналитика данных](https://stepik.org/a/195138/pay?promo=207ed7df54990e22&utm_source=telegram&utm_medium=channel&utm_campaign=ad5990&utm_content=link&utm_term=5990)**</h2>
+<h2 align="center">Самая полная программа – **[Аналитика данных](https://stepik.org/users/564134108/teach)**</h2>
 
 **В программу входят:**
 
