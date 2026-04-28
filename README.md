@@ -18,7 +18,7 @@
 
 | Курс | Цена со скидкой |
 |------|----------------|
-| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/a/181875/pay?promo=f36edf2c3357c3df&utm_source=git&utm_medium=github&utm_campaign=sql2000&utm_content=link&utm_term=2000)** | **2000₽** |
+| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/a/181875/pay?promo=f36edf2c3357c3df&utm_source=git&utm_medium=github&utm_campaign=sql2000&utm_content=link&utm_term=2000)** | **2200₽** |
 | **[Metabase: визуализация данных](https://stepik.org/a/196932/pay?promo=78831dff1a703987&utm_source=git&utm_medium=github&utm_campaign=met1000&utm_content=link&utm_term=1000)** | **1990₽** |
 | **[Microsoft Power BI, Power Query, DAX](https://stepik.org/a/190679/pay?promo=f1bba4a2d078a9ba&utm_source=git&utm_medium=github&utm_campaign=pbi1200&utm_content=link&utm_term=1200)** | **2290₽** |
 | **[SQL: оконные функции](https://stepik.org/a/199403/pay?promo=9ce2079f1225b4fa&utm_source=git&utm_medium=github&utm_campaign=wf1490&utm_content=link&utm_term=1490)** | **1490₽** |
