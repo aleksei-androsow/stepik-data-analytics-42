@@ -23,7 +23,7 @@
 | **[Microsoft Power BI, Power Query, DAX](https://stepik.org/a/190679/pay?promo=f1bba4a2d078a9ba&utm_source=git&utm_medium=github&utm_campaign=pbi1200&utm_content=link&utm_term=1200)** | **2290₽** |
 | **[SQL: оконные функции](https://stepik.org/a/199403/pay?promo=9ce2079f1225b4fa&utm_source=git&utm_medium=github&utm_campaign=wf1490&utm_content=link&utm_term=1490)** | **1490₽** |
 | **[Когортный & RFM-анализ в SQL](https://stepik.org/a/204222/pay?promo=19f16317aa5ff8e6&utm_source=git&utm_medium=github&utm_campaign=rfm990&utm_content=link&utm_term=990)** | **990₽** |
-| **[Основы Python для анализа данных]()** | **1990₽** |
+| **[Основы Python для анализа данных](https://stepik.org/a/279435/pay?promo=ea1d1f57340f98ed&utm_source=git&utm_medium=github&utm_campaign=python_2000&utm_content=link&utm_term=2000)** | **2000₽** |
 
 <h3 align="center">Программы</h3>
 
