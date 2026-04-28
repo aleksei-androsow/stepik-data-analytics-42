@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">Самая полная программа <strong><a href="https://stepik.org/a/195138/pay?promo=207ed7df54990e22&utm_source=telegram&utm_medium=channel&utm_campaign=ad5990&utm_content=link&utm_term=5990">Аналитика данных</a></strong></h2>
+<h2 align="center">Самая полная программа – <strong><a href="https://stepik.org/a/195138/pay?promo=207ed7df54990e22&utm_source=telegram&utm_medium=channel&utm_campaign=ad5990&utm_content=link&utm_term=5990">Аналитика данных</a></strong></h2>
 
 **В программу входят:**
 
@@ -70,8 +70,6 @@
 
 5. **Microsoft Power BI, Power Query, DAX**
    - Знание SQL желательно, но стартовать можно и без него
-
-6. **Основы Python для анализа данных**
 
 ---
 
