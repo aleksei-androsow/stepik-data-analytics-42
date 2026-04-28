@@ -18,21 +18,20 @@
 
 | Курс | Цена со скидкой |
 |------|----------------|
-| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/course/123456)** | **2490₽** |
-| **[Metabase: визуализация данных](https://stepik.org/course/123456)** | **1490₽** |
-| **[Microsoft Power BI, Power Query, DAX](https://stepik.org/course/123456)** | **1990₽** |
-| **[SQL: оконные функции](https://stepik.org/course/123456)** | **1190₽** |
-| **[ABC-XYZ анализ в SQL](https://stepik.org/course/123456)** | **890₽** |
-| **[Когортный & RFM-анализ в SQL](https://stepik.org/course/123456)** | **890₽** |
-| **[Основы Python для анализа данных](https://stepik.org/course/123456)** | **890₽** |
+| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/a/181875/pay?promo=f36edf2c3357c3df&utm_source=git&utm_medium=github&utm_campaign=sql2000&utm_content=link&utm_term=2000)** | **2000₽** |
+| **[Metabase: визуализация данных](https://stepik.org/a/196932/pay?promo=78831dff1a703987&utm_source=git&utm_medium=github&utm_campaign=met1000&utm_content=link&utm_term=1000)** | **1990₽** |
+| **[Microsoft Power BI, Power Query, DAX](https://stepik.org/a/190679/pay?promo=f1bba4a2d078a9ba&utm_source=git&utm_medium=github&utm_campaign=pbi1200&utm_content=link&utm_term=1200)** | **2290₽** |
+| **[SQL: оконные функции](https://stepik.org/a/199403/pay?promo=9ce2079f1225b4fa&utm_source=git&utm_medium=github&utm_campaign=wf1490&utm_content=link&utm_term=1490)** | **1490₽** |
+| **[Когортный & RFM-анализ в SQL](https://stepik.org/a/204222/pay?promo=19f16317aa5ff8e6&utm_source=git&utm_medium=github&utm_campaign=rfm990&utm_content=link&utm_term=990)** | **990₽** |
+| **[Основы Python для анализа данных]()** | **1990₽** |
 
 <h3 align="center">Программы</h3>
 
 | Программа | Цена со скидкой |
 |-----------|----------------|
 | **[Аналитика данных](https://stepik.org/a/195138/pay?promo=c30dc894347e901f&utm_source=git&utm_medium=github&utm_campaign=ad1410&utm_content=link&utm_term=1410)** | **6490₽** |
-| **[Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/course/123456)** | **4000₽** |
-| **[Аналитика данных: MS Power BI, оконные функции](https://stepik.org/course/123456)** | **2500₽** |
+| **[Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/a/205032/pay?promo=573085093da4ffc5&utm_source=git&utm_medium=github&utm_campaign=ad500&utm_content=link&utm_term=500)** | **4490₽** |
+| **[Аналитика данных: MS Power BI, оконные функции](https://stepik.org/a/201736/pay?promo=19db747c8200efca&utm_source=git&utm_medium=github&utm_campaign=ad2500&utm_content=link&utm_term=500)** | **2990₽** |
 
 ---
 
