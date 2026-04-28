@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">Самая полная программа – [Аналитика данных](https://stepik.org/users/564134108/teach)</h2>
+<h2 align="center">Самая полная программа<br><strong><a href="https://stepik.org/a/195138/pay?promo=207ed7df54990e22&utm_source=telegram&utm_medium=channel&utm_campaign=ad5990&utm_content=link&utm_term=5990">Аналитика данных</a></strong></h2>
 
 **В программу входят:**
 
