@@ -30,7 +30,7 @@
 
 | Программа | Цена со скидкой |
 |-----------|----------------|
-| **[Аналитика данных]([https://stepik.org/course/123456](https://stepik.org/a/195138/pay?promo=c30dc894347e901f&utm_source=git&utm_medium=github&utm_campaign=ad1410&utm_content=link&utm_term=1410))** | **6490₽** |
+| **[Аналитика данных](https://stepik.org/a/195138/pay?promo=c30dc894347e901f&utm_source=git&utm_medium=github&utm_campaign=ad1410&utm_content=link&utm_term=1410)** | **6490₽** |
 | **[Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/course/123456)** | **4000₽** |
 | **[Аналитика данных: MS Power BI, оконные функции](https://stepik.org/course/123456)** | **2500₽** |
 
