@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">Самая полная программа – <strong><a href="https://stepik.org/a/195138/pay?promo=207ed7df54990e22&utm_source=telegram&utm_medium=channel&utm_campaign=ad5990&utm_content=link&utm_term=5990">Аналитика данных</a></strong></h2>
+<h2 align="center">Самая полная программа – <strong><a href="https://stepik.org/a/195138/pay?promo=671a867ed185276f&utm_source=git&utm_medium=github&utm_campaign=ad6745&utm_content=link&utm_term=6745">Аналитика данных</a></strong></h2>
 
 **В программу входят:**
 
