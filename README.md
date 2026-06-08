@@ -8,30 +8,6 @@
 
 ---
 
-<h2 align="center">Скидки на курсы и программы</h2>
-
-Здесь вы найдете скидки на различные программы.
-
-> **Важно:** чтобы воспользоваться предложением, покупайте **по нижеуказанным ссылкам (промокоды применятся автоматически)** – после перехода вы попадете на страницу оплаты на платформе **Stepik**. Всё точно так же, как и обычно, только с выгодой для вас!
-
-<h3 align="center">Курсы</h3>
-
-| Курс | Цена со скидкой |
-|------|----------------|
-| **[SQL для всех: от начинающих до продвинутых](https://stepik.org/a/181875/pay?promo=b96b2491feb8a3e6&utm_source=git&utm_medium=github&utm_campaign=sql2490&utm_content=link&utm_term=500)** | **2490₽** |
-| **[Metabase: визуализация данных](https://stepik.org/a/196932/pay?promo=41628f9882d7a293&utm_source=git&utm_medium=github&utm_campaign=metabase1990&utm_content=link&utm_term=500)** | **1990₽** |
-| **[Microsoft Power BI, Power Query, DAX](https://stepik.org/a/190679/pay?promo=cf8d13fd9035d909&utm_source=git&utm_medium=github&utm_campaign=pbi2490&utm_content=link&utm_term=500)** | **2490₽** |
-| **[Основы Python для анализа данных](https://stepik.org/a/279435/pay?promo=2444aad11bfd0d7c&utm_source=git&utm_medium=github&utm_campaign=python1990&utm_content=link&utm_term=500)** | **1990₽** |
-
-<h3 align="center">Программы</h3>
-
-| Программа | Цена со скидкой |
-|-----------|----------------|
-| **[Аналитика данных](https://stepik.org/a/195138/pay?promo=671a867ed185276f&utm_source=git&utm_medium=github&utm_campaign=ad6745&utm_content=link&utm_term=6745)** | **6745₽** |
-| **[Аналитика: Power BI, оконные функции, Cohort, RFM, ABC-XYZ в SQL](https://stepik.org/a/205032/pay?promo=195c520fcf5432ff&utm_source=git&utm_medium=github&utm_campaign=ad4490&utm_content=link&utm_term=2500)** | **4490₽** |
-
----
-
 <h2 align="center">Информация о программах и презентациях</h2>
 
 Все детали по курсам и программам можно найти в описании каждого из них в разделе **[Преподавание](https://stepik.org/users/564134108/teach)**.
